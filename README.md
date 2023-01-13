@@ -1,0 +1,2 @@
+# blog-mind
+Thoughts 
